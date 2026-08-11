@@ -43,6 +43,9 @@ Confira o projeto rodando em diferentes dispositivos:
   <img src="https://raw.githubusercontent.com/lucaspalmasanches/wide-coverage-location/master/img/WideCoverageLocationMobile.png" alt="Wide Coverage Location - Versão Mobile" width="48%">
 </p>
 
+ 🌐 [Ver Projeto Online](https://lucaspalmasanches.github.io/wide-coverage-location/)
+
+
 ---
 
 ## 📚 Aprendizados
